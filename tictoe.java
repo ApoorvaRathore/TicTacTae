@@ -134,7 +134,7 @@ else if(ch=='9')
 arr[8]=player2;
 else
 {
-System.out.println("invalid input");
+System.out.println("invalid value");
 }
 for(int i=0; i<3; i++)
 {
