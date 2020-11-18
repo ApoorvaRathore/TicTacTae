@@ -30,7 +30,7 @@ System.out.print(arr[k+6]+ "   ");
 System.out.println();
 System.out.println();
 
-System.out.println("///////////////     let's start the game  ////////////////");
+System.out.println("///////////////     let's start the game and see who wins ////////////////");
 System.out.println();
 System.out.println();
 System.out.println("player 1 = X , player 2 = 0\n");
